@@ -5,10 +5,14 @@
 📧 Entre em contato: j.antonioassuncao@outlook.com <br>
 
 ### Conhecimentos em:
-<div style="display: flex;"  >
+<div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 80px" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"style="height: 80px" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 80px" title="JavaScript"/>
+  &thinsp;
+  <img src="https://nodejs.org/static/logos/jsIconGreen.svg" style="height:80px" title="NodeJs">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" style="height:80px" title="PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" style="height:80px" title="MySQL">
 </div>
 <br>
 
