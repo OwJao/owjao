@@ -7,7 +7,7 @@
 ### Conhecimentos em:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,postgres,mysql,mongodb,prisma,github,git,docker,plsql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,postgres,mysql,mongodb,prisma,github,git,docker" />
   </a>
 </p>
 
